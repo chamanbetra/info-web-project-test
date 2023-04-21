@@ -91,7 +91,7 @@ return (
       <div className='col-md-6'>
         <Form layout='vertical' onSubmit={save1}>
           <div className="container">
-            <h1 className='registertxt'>Flat Mate Expense Tracker-Register</h1>
+            <h1 className='registertxt'>SplitUp Financial Tracker-Register</h1>
             <p className='registertxt'>Please fill in this form to create an account.</p>
             <hr />
             <Form.Item>

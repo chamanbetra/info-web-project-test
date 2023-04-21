@@ -45,7 +45,7 @@ function PLogin() {
         <div className='col-md-6'>
           <form onSubmit={login}>
             <div className="container">
-              <h1>Flat Mate Expense Tracker-Login</h1>
+              <h1>Split Up Financial Tracker-Login</h1>
               <hr />
               <Form.Item>
 
